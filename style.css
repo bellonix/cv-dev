@@ -1,0 +1,73 @@
+#social > div
+{
+	display: inline-block;
+	width: 120px;
+	height:120px;
+	background:url(logos-reseaux-sociaux-article-relations.png);
+}
+
+#social > div:nth-of-type(1)
+{
+background-position: 0 -21px;
+}
+#social > div:nth-of-type(2)
+{
+background-position: -120px -21px;
+}
+#social > div:nth-of-type(3)
+{
+background-position: -243px -21px;
+}
+#social > div:nth-of-type(4)
+{
+background-position: -368px -21px;
+}
+#social > div:nth-of-type(5)
+{
+background-position: -493px -21px;
+}
+#social > div:nth-of-type(6)
+{
+background-position: -616px -21px;
+}
+#social > div:nth-of-type(7)
+{
+background-position: -741px -21px;
+}
+#social > div:nth-of-type(8)
+{
+background-position: -861px -21px;
+}
+
+#social > div:nth-of-type(1):hover
+{
+background-position: 0 -23px;
+}
+#social > div:nth-of-type(2):hover
+{
+background-position: -120px -23px;
+}
+#social > div:nth-of-type(3):hover
+{
+background-position: -243px -23px;
+}
+#social > div:nth-of-type(4):hover
+{
+background-position: -368px -23px;
+}
+#social > div:nth-of-type(5):hover
+{
+background-position: -493px -23px;
+}
+#social > div:nth-of-type(6):hover
+{
+background-position: -616px -23px;
+}
+#social > div:nth-of-type(7):hover
+{
+background-position: -741px -23px;
+}
+#social > div:nth-of-type(8):hover
+{
+background-position: -861px -23px;
+
